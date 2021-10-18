@@ -1,6 +1,6 @@
 # SaveEnergy_PI_VII
 ## Projeto Integrador para Eng. de Computação VII-PEC007-0007
-* Projeto Integrador para Engenharia de Computação VII - UNIVESP
+* Projeto Integrador para Engenharia de Computação VII - UNIVESP.
 * Tema: Internet das Coisas na resolução de problemas da sociedade brasileira.
 
 # Installing DHT11 in Raspberry Pi 
